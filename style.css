@@ -1,0 +1,13 @@
+@font-face {
+    font-family: ClearSans-Medium;
+    src: url(fonts/ClearSans-Medium.ttf);
+}
+
+html, body {
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    border: 1px solid black;
+}
